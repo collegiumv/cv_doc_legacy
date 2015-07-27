@@ -1,7 +1,13 @@
 ---
-title: CVOS Documentation
+title: Work
+author: CV Admins
 layout: default
 ---
 
-#Something
-Content
+#Working in CVOS
+
+##[Browsing the Internet](/work/internet.html)
+
+##[Working in Office](/work/office.html)
+
+##[The thing that matters most - Printing](/work/printing.html)
