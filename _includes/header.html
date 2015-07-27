@@ -4,13 +4,11 @@
     <a href="http://utdallas.edu/">The University of Texas at Dallas</a>
   </div>
   <div id="navbar">
-    <a href="http://collegiumv.org">Home</a>
-    <a href="http://account.collegiumv.org">Accounts</a>
-    <a href="http://irc.collegiumv.org">IRC</a>
-    {% for page in site.pages %}
-    {% if page.title %}
-    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-    {% endif %}
-    {% endfor %}
+       <ol class="breadcrumbs">
+	   {% for p in page.ancestors %}
+	   <li><a href="{{ site.baseurl}}{{ p.url }}">{{ p.title }}</a></li>
+	   {% endfor %}
+	   <li class="active">{{ page.title }}</li>
+       </ol>
   </div>
 </header>
