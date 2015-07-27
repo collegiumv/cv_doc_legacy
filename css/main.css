@@ -416,3 +416,21 @@ hr {
 .center {
     text-align: center;
 }
+
+.breadcrumbs {
+    margin-left: 0;
+}
+
+.breadcrumbs > li {
+    display: inline;
+    list-style: none;
+}
+
+.breadcrumbs > li:after {
+    content: " > ";
+}
+
+.breadcrumbs > li.active:after {
+    content: "";
+}
+
