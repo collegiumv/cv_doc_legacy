@@ -14,8 +14,8 @@ layout: default
 
 2. Enter your Net ID in the box, and press "Change Password" (after the button 
    appears).
- - If the button does not appear, check your Net ID again. An example Net ID 
-   format "abc123123".
+ - If the button does not appear, check your Net ID again. An example Net ID, 
+   properly formatted, would be: "abc123123".
  - Do not press the button multiple times. Doing so, even if the page seems 
    unresponsive, will lead to your password being reset multiple times as well.
    If you do press the button multiple times, just remember that you did, and 
