@@ -14,6 +14,8 @@ layout: default
 
 2. Enter your Net ID in the box, and press "Change Password" (after the button 
    appears).
+ - **You might not see anything on screen when you press the button. This is 
+   normal.**
  - If the button does not appear, check your Net ID again. An example Net ID, 
    properly formatted, would be: "abc123123".
  - Do not press the button multiple times. Doing so, even if the page seems 
