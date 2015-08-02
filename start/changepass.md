@@ -4,48 +4,28 @@ author: CVAdmins
 layout: default
 ---
 
-## Change Password
+# Change Password
 
-1. Log in on a Lounge Workstation.
+CVOS provides an intuitive interface to change your password. You can find it on the application menu under `Accecssories > Change Password`.
 
-2. Click on the menu at the bottom left corner.
+![Change Password](/img/start/chpassMenu.png)
 
-3. Select the second item from the bottom, "Run".
- - ![It looks like this](menu.png)
+This will launch an application that looks like this:
 
-4. Type: `xterm` and press enter.
- - ![That should look like this](run.png)
- - If you get a warning box telling you "Failed to execute child process," you 
-   mistyped `xterm`.
- - You should get a window in the middle of the screen named "xterm".
- - ![Xterm looks like this](xterm.png)
+![Change Password](/img/start/chpassGui.png)
 
-5. Type the following: `kpasswd`
- - **A Note About Passwords**
-	  * Most systems people give people feedback while they type their
-	    passwords, normally in the form of dots, or asterisks.
-	  * This behaviour is not repeated in `kpasswd`, for security reasons.
-	    Instead of showing dots, it will simply show nothing. Rest assured,
-	    the computer is getting your key presses.
+Simply enter your current password, a new password, confirm your new password, and click `Change`. If all goes well, you should get green text at the top stating that your password was changed.
 
-6. You will be greeted with a prompt: "Password for YourUsername@COLLEGIUMV.ORG"
- - Here, you type the password you used to log in.
- - You will not receive feedback, for security reasons.
- - If you type it wrong, you will get an error. In that case, just type
-   `kpasswd` again.
- - ![This command and first line look like this](kpasswd.png)
+![Change Password Success](/img/start/chpassSuccess.png)
 
-7. If you typed your current password correctly, you will be presented with 
-   another prompt: "Enter new password."
- - Here, you type your desired password.
+# Errors
 
-8. After pressing enter, you will be presented with another prompt: "Enter it 
-   again."
- - Type your desired password again, to make sure it was entered correctly the 
-   first time.
+You might get the following errors when you try to change your password:
 
-9. If you typed your passwords correctly, you will be told "Password changed."
- - At this point, you can just close the "xterm" window.
+If your new password and confirmation do not match, you will see the following:
 
-10. If you did not type your password correctly the second time, just type
-   `kpasswd` again and start over.
+![Match passwords](/img/start/chpassMatch.png)
+
+If you entered your current password incorrectly, you will get this error:
+
+![Current Password](/img/start/chpassInvalid.png)
