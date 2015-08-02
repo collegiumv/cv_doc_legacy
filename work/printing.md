@@ -13,6 +13,9 @@ Printing documents functions exactly as it does in other operating systems.  `Fi
 
 ![Print Dialog](/img/work/printDialogue.png)
 
+#Document Viewer
+Printing from `Document Viewer` will not work.  We are investigating the issue and apologize for any inconvenience.
+
 #Paper
 The CV Lounge does not charge users for printing.  Instead, we work on a "Paper Balance" - you must bring in paper (unopened reams only please!) to the CV Offices.  CV Admins prefer `92 Bright, 20lb` paper in ream sizes of `500 sheets` (or larger if you must).  We will of course accept smaller reams as well, however. Unfortunately we cannot credit you for legal paper, construction paper, card stock, or any other specialty paper (our printers and admins are very picky...)
 
