@@ -9,9 +9,9 @@ This site is broken up into smaller sections based on tasks or end goals.  All y
 
 ##What do you want to do?
 
-[Start right away](/start)
+[Setup your account](/start)
 
-[Get right to work](/work)
+[Get to work](/work)
 
 [Learn about CVOS](/learn)
 
