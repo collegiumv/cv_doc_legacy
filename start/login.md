@@ -20,7 +20,7 @@ layout: default
 
 ### Locking
 If you leave your workstation alone for 10 minutes, while logged in, your 
-session will be locked with a screensaver. You may simply wiggle your mouse or 
+session will be locked with a screen-saver. You may simply wiggle your mouse or 
 press any key to be given a password prompt.
 
 Power users may lock their workstation with the command: ``xscreensaver --lock``
