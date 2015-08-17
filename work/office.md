@@ -30,7 +30,7 @@ Google Documents is another online office solution.  It is accessible with a Goo
 ##WPS Office
 WPS Office is an office suite that appears very similar to newer versions of Microsoft Office.  Some users may find this more familiar to work with.
 
-**Due to the nature of the source model and license WPS Office uses, this suite is provided as-is, and may be removed from CVOS at any time.  It is encouraged that students take some time to use one of the above options, which we have throuroughly tested and analyzed, and are guaranteed to be supported in the future.**
+###Due to the nature of the source model and license WPS Office uses, this suite is provided as-is, and may be removed from CVOS at any time.  It is encouraged that students take some time to use one of the above options, which we have throuroughly tested and analyzed, and are guaranteed to be supported in the future.
 
 WPS Office provides three utilities, available via the Application Menu under "Office".
 
