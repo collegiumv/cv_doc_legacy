@@ -26,3 +26,19 @@ The University of Texas at Dallas provides all students with access to Microsoft
 
 ##Google Documents
 Google Documents is another online office solution.  It is accessible with a Google account and a web browser at [drive.google.com](https://drive.google.com) .
+
+##WPS Office
+WPS Office is an office suite that appears very similar to newer versions of Microsoft Office.  Some users may find this more familiar to work with.
+
+**Due to the nature of the source model and license WPS Office uses, this suite is provided as-is, and may be removed from CVOS at any time.  It is encouraged that students take some time to use one of the above options, which we have throuroughly tested and analyzed, and are guaranteed to be supported in the future.**
+
+WPS Office provides three utilities, available via the Application Menu under "Office".
+
+ * WPS Writer: A document editor much like Microsoft Word 2013
+ * WPS Spreadsheets: A spreadsheet tool much like Microsoft Excel 2013
+ * WPS Presentation: A slideshow creater similar to Microsoft Powerpoint 2013
+
+###It is important to be aware of your filetype when saving in WPS Office.  The default file format, `.wps`, cannot be read by Microsoft Word.  Be sure to select Microsoft Word 2007/2010 Document to save as a `.docx`, to preserve compatability with other office suites.
+
+![WPS Office Format](/img/work/WPSOfficeFormat.png)
+
