@@ -21,6 +21,12 @@ LibreOffice is a suite of software much like Microsoft Office. LibreOffice is av
 
 ![Office Format](/img/work/officeFormat.png)
 
+You may choose to set the `.docx` format as default in LibreOffice.  Keep in mind that this will disable auto-save, and it is slightly safer to work in `.odf` format, and export to `.docx` when you are done.
+
+To change this, go to `"Tools" > "Options"`, select the `"Load/Save" > "General" tab, and choose `"Microsoft word 2007/2010/2013 XML"` under the `"Always save as"` menu.
+
+![Office Saving](/img/work/LibreOptionsSave.png)
+
 ##Office 365
 The University of Texas at Dallas provides all students with access to Microsoft Office 365, which works very nearly identically to conventional Microsoft Office products. You can access it at [portal.office.com](https://portal.office.com)
 
