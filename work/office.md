@@ -42,3 +42,18 @@ WPS Office provides three utilities, available via the Application Menu under "O
 
 ![WPS Office Format](/img/work/WPSOfficeFormat.png)
 
+You can set the default filetype for saving so that you never have to change this setting again by following the following steps:
+
+Open WPS Writer. Click the blue `Writer` menu. Click on `Options.
+
+![WPS Options](/img/work/WPSOptions.png)
+
+Navigate to the `General and Save` section.
+
+![WPS Save Option](/img/work/WPSOptionsTab.png)
+
+Under `Save files as default:` select your preferred save format.
+
+![WPS Save format](/img/work/WPSOptionsSave.png)
+
+Changing the default format for Presentation and Spreadsheet follows the same steps.

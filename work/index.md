@@ -10,6 +10,6 @@ layout: default
 
 ##[Working in Office](/work/office.html)
 
-##[Scanning Documents](/work/scan.md)
+##[Scanning Documents](/work/scan.html)
 
 ##[Printing](/work/printing.html)
