@@ -10,4 +10,6 @@ layout: default
 
 ##[Working in Office](/work/office.html)
 
-##[The thing that matters most - Printing](/work/printing.html)
+##[Scanning Documents](/work/scan.md)
+
+##[Printing](/work/printing.html)
