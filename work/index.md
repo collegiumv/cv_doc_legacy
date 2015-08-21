@@ -13,3 +13,5 @@ layout: default
 ##[Scanning Documents](/work/scan.html)
 
 ##[Printing](/work/printing.html)
+
+##[Taking a Screenshot](/work/screenshot.html)
