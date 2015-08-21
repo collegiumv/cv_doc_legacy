@@ -13,6 +13,6 @@ CVOS is a large and complex system but that doesn't mean that it is difficult to
 
 [I want a program installed!](request.html)
 
-[Didn't the lounge have a scanner at one point...](scanner.html)
+[Didn't the lounge have a scanner at one point...](../work/scanner.html)
 
 [I heard about Carbon at orientation, what is that?](carbon.html)
