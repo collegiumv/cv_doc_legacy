@@ -16,3 +16,5 @@ This site is broken up into smaller sections based on tasks or end goals.  All y
 [Learn about CVOS](/learn)
 
 [Contribute to CVOS](/contribute)
+
+[Honors Expectations](/contribute/expectations.html)
