@@ -3,18 +3,10 @@ title: Home
 layout: default
 ---
 
-#Start Here
+#Collegium V Documentation
 
-This site is broken up into smaller sections based on tasks or end goals.  All you need to ask yourself is:
+This site contains documentation pertinent to the Collegium V organization at UT Dallas.  This information is more static than the content of the main site and is provided for your reference.  Questions about the information here should be directed to [CV Admins](mailto:cvadmins@utdallas.edu).
 
-##What do you want to do?
+##Subsections:
 
-[Setup your account](/start)
-
-[Get to work](/work)
-
-[Learn about CVOS](/learn)
-
-[Contribute to CVOS](/contribute)
-
-[Honors Expectations](/contribute/expectations.html)
+[CVOS Computer Systems](cvos)
