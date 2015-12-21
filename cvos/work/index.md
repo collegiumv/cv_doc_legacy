@@ -6,12 +6,12 @@ layout: default
 
 #Working in CVOS
 
-##[Browsing the Internet](/work/internet.html)
+##[Browsing the Internet](internet.html)
 
-##[Working in Office](/work/office.html)
+##[Working in Office](office.html)
 
-##[Scanning Documents](/work/scan.html)
+##[Scanning Documents](scan.html)
 
-##[Printing](/work/printing.html)
+##[Printing](printing.html)
 
-##[Taking a Screenshot](/work/screenshot.html)
+##[Taking a Screenshot](screenshot.html)
