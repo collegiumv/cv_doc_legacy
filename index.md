@@ -10,3 +10,5 @@ This site contains documentation pertinent to the Collegium V organization at UT
 ##Subsections:
 
 [CVOS Computer Systems](cvos)
+
+[Policy Listings](policy)
