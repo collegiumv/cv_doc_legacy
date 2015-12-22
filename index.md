@@ -11,6 +11,8 @@ This site contains documentation pertinent to the Collegium V organization at UT
 
 [CVOS Computer Systems](cvos)
 
-[CV Minecraft](minecraft)
+[Minecraft](minecraft)
+
+[IRC](IRC)
 
 [Policy Listings](policy)
