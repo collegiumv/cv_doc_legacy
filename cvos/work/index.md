@@ -15,3 +15,5 @@ layout: default
 ##[Printing](printing.html)
 
 ##[Taking a Screenshot](screenshot.html)
+
+##[Launching Matlab](matlab.html)
