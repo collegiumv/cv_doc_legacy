@@ -5,7 +5,7 @@ layout: default
 ---
 
 #Update
-Printing has been updated to improve performance and stability.  For the most part, this update will be seemlessly integrated into your experience.  However, the program `okular` has been found to be a culpret in the slowness of the printers.  Therefore we recommend against using it, and instead recommend any of the following programs. (We are working to add more to this list)
+Printing has been updated to improve performance and stability.  For the most part, this update will be seemlessly integrated into your experience.  However, the program `okular` has been found to be a culprit in the slowness of the printers.  Therefore we recommend against using it, and instead recommend any of the following programs. (We are working to add more to this list)
 
 * Google Chrome - `google-chrome`
 * Firefox - `firefox`
