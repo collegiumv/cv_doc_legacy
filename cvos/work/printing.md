@@ -4,10 +4,20 @@ author: CV Admins
 layout: default
 ---
 
-#Printing
-CV Admins knows that printing is chief among the concerns of Lounge users.  We cannot claim that the experience will be completely bug free, however it is our firm belief that this upgrade will improve the stability of printing in the long term.
+#Update
+Printing has been updated to improve performance and stability.  For the most part, this update will be seemlessly integrated into your experience.  However, the program `okular` has been found to be a culpret in the slowness of the printers.  Therefore we recommend against using it, and instead recommend any of the following programs. (We are working to add more to this list)
 
-`Currently Printing is functioning but may be slow to print.`
+* Google Chrome - `google-chrome`
+* Firefox - `firefox`
+
+For advanced users, the `lpr` command will offer nearly instantaneous printing in most circumstances.  You can use it as follows:
+
+```
+lpr <document> -P Carlson
+```
+
+#Printing
+CV Admins knows that printing is chief among the concerns of Lounge users.  We cannot claim that the experience will be completely bug free, however it is our firm belief that this upgrade has improved the stability of printing in the long term.
 
 Printing documents functions exactly as it does in other operating systems.  `File > Print` is the most common location for this command.  In addition, the key combination `Ctrl`+`P` works in many places.
 
